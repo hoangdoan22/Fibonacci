@@ -1,7 +1,5 @@
 package HomeworkDSday2;
 
-import java.util.HashMap;
-
 public class PairGap {
 	public static void main(String[] args) {
 		int[] arr = { 7, 1, 3, 4, 1, 7 };
